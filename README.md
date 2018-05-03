@@ -1,2 +1,3 @@
 # hello-world
-First Time
+
+Hey there, I like graphics and game development.
